@@ -78,4 +78,4 @@ plt.show()
 ![Screenshot (207)](https://user-images.githubusercontent.com/75234807/169482400-f8a818d3-7b8e-4218-b434-587954b9dd6d.png)
 
 ## Result:
-Thus the python program successully plotted Receiver Operating Characteristic [ROC] Curve.
+Thus the python program successfully plotted Receiver Operating Characteristic [ROC] Curve.
